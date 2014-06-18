@@ -1,2 +1,2 @@
 \cite{cite:8}
-%$ e = mc^{2} $% \marker{energyMass}
+$$ e = mc^{2} $$
